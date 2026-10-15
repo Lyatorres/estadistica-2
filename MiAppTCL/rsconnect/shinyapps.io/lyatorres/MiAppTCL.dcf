@@ -1,0 +1,12 @@
+name: MiAppTCL
+title: MiAppTCL
+username: lyatorres
+account: lyatorres
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 18182281
+bundleId: 12691813
+url: https://lyatorres.shinyapps.io/MiAppTCL/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
